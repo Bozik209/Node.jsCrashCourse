@@ -24,6 +24,11 @@ npm install express
 # install a package globally
 npm install -g nodemon
 
+
+```
+
+## Node modules
+```bash
 #files
 const path = require('path');
 const myFile= require('/.myFile');
