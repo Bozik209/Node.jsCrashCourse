@@ -24,6 +24,10 @@ npm install express
 # install a package globally
 npm install -g nodemon
 
+#install as devDependencies
+npm install -D nodemon
+
+
 
 ```
 
