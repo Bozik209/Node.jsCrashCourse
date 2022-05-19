@@ -37,3 +37,12 @@ npm install -D nodemon
 const path = require('path');
 const myFile= require('/.myFile');
 ```
+
+## Reference
+  * Event        [github](https://github.com/boaz209/Node.js-Crash-Course/blob/main/reference/event_demo.js)  [doc](https://nodejs.org/docs/latest-v17.x/api/events.html)
+  * File system  [github](https://github.com/boaz209/Node.js-Crash-Course/blob/main/reference/fs_demo.js)  [doc](https://nodejs.org/docs/latest-v17.x/api/fs.html)
+  * HTTP         [github](https://github.com/boaz209/Node.js-Crash-Course/blob/main/reference/http_demo.js) [doc](https://nodejs.org/docs/latest-v17.x/api/http.html)
+  * OS           [github](https://github.com/boaz209/Node.js-Crash-Course/blob/main/reference/os_demo.js) [doc](https://nodejs.org/docs/latest-v17.x/api/os.html)
+  * path         [github](https://github.com/boaz209/Node.js-Crash-Course/blob/main/reference/path_demo.js) [doc](https://nodejs.org/docs/latest-v17.x/api/path.html)
+  * URL          [github](https://github.com/boaz209/Node.js-Crash-Course/blob/main/reference/url_demo.js) [doc](https://nodejs.org/docs/latest-v17.x/api/url.html)
+
