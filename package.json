@@ -1,0 +1,18 @@
+{
+  "name": "node.js-crash-course",
+  "version": "1.0.0",
+  "description": "> These files go with the Node crash course on YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "run index",
+    "dev":"nodemon index"
+  },
+  "author": "Boaz",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
